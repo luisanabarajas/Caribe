@@ -93,6 +93,7 @@ Flow Navigation (Screen to Screen)
 
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+https://www.canva.com/design/DAFzi5DI3pE/yswqlWc2z8EwwDc7THzvfg/edit?utm_content=DAFzi5DI3pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 ### [BONUS] Digital Wireframes & Mockups
 
@@ -100,6 +101,9 @@ Flow Navigation (Screen to Screen)
 
 
 ### [BONUS] Interactive Prototype
+
+![White   Purple Pet Adoption App Mobile Prototype](https://github.com/luisanabarajas/Caribe/assets/103004074/70f7da1b-519c-4be5-b79e-ac8840dc32e8)
+
 
 ## Schema 
 
