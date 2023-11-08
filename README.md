@@ -76,19 +76,18 @@ Streamlines B2B transactions between European and American businesses, fostering
 
 **Flow Navigation** (Screen to Screen)
 
-Tab Navigation (Tab to Screen)
-Home Feed
-Search Supplier
-Messages
-Profile
+- Tab Navigation (Tab to Screen)
+- Home Feed
+- Search Supplier
+- Messages
+- Profile
 
 Flow Navigation (Screen to Screen)
 
-Login Screen
+- Login Screen
 => Home
-Registration Screen
+- Registration Screen
 => Home
-Creation Screen
 
 ## Wireframes
 
