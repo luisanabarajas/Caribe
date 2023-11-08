@@ -95,6 +95,8 @@ Flow Navigation (Screen to Screen)
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
+![image](https://github.com/luisanabarajas/Caribe/assets/103004074/7f197bd0-fba1-4518-b3d7-a9345f7c8208)
+
 
 ### [BONUS] Interactive Prototype
 
