@@ -94,6 +94,14 @@ Flow Navigation (Screen to Screen)
 [Add picture of your hand sketched wireframes in this section]
 <img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
 https://www.canva.com/design/DAFzi5DI3pE/yswqlWc2z8EwwDc7THzvfg/edit?utm_content=DAFzi5DI3pE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+<div>
+    <a href="https://www.loom.com/share/9c224c0765b24ea5a5bffa8e366065ab">
+      <p>Library | Loom - 7 November 2023 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/9c224c0765b24ea5a5bffa8e366065ab">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/9c224c0765b24ea5a5bffa8e366065ab-with-play.gif">
+    </a>
+  </div>
 
 ### [BONUS] Digital Wireframes & Mockups
 
